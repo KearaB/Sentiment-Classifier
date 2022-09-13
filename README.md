@@ -1,2 +1,2 @@
 # CBB2-Notebook
-Jupyter notebook and all the data that will be used for the Classification Predict is included in this repo.
+A Jupyter notebook and all the data necessary for this project is included in this repository.
